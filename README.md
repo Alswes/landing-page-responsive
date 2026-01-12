@@ -31,4 +31,37 @@ Como o projeto utiliza PHP, você precisará de um servidor local:
 4. Acesse no navegador: `http://localhost/nome-da-sua-pasta/index.php`.
 
 ---
+
 Desenvolvido por Wesley Lemos
+
+---
+# 📝 Formulário de Contato Dinâmico
+
+Este projeto demonstra a integração entre Front-end e Back-end, com foco em segurança e experiência do usuário.
+
+## 📸 Demonstração
+
+Aqui você pode ver o formulário estilizado e o processamento dos dados:
+
+![Interface do Formulário](img/screenshot-form.jpg)
+*Legenda: Formulário com CSS e validação JS.*
+
+![Página de Boas-vindas](img/screenshot-welcome.jpg)
+*Legenda: Página welcome.php processando os dados com segurança.*
+
+## 🛠️ Tecnologias
+
+- **Front-end:** HTML5, CSS3, JavaScript.
+- **Back-end:** PHP (utilizando `htmlspecialchars` para proteção XSS).
+
+## ⚙️ Como executar
+1. Baixe o projeto e coloque na pasta `htdocs` do seu XAMPP.
+2. Inicie o Apache.
+3. Acesse `http://localhost/seu-projeto/index.php`.
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-lemos-profissional)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alswes/)
