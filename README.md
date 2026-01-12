@@ -34,8 +34,6 @@ Como o projeto utiliza PHP, você precisará de um servidor local:
 Desenvolvido por Wesley Lemos
 
 ---
-
----
 ## 📬 Contato
 
 Gostou do projeto? Entre em contato comigo:
